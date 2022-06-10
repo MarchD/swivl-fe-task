@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Swivl FE TASK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+[TASK](https://gist.github.com/jsulima/947dde8647e1d792c29ae440addb0f78)
+[DEMO](https://peppy-granita-f0c142.netlify.app/)
+
+- Typescript
+- React
+- Redux toolkit
+- Styled components
 
 ## Available Scripts
 
